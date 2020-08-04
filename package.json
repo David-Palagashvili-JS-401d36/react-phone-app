@@ -16,5 +16,23 @@
   "bugs": {
     "url": "https://github.com/David-Palagashvili-JS-401d36/react-phone-app/issues"
   },
-  "homepage": "https://github.com/David-Palagashvili-JS-401d36/react-phone-app#readme"
+  "homepage": "https://github.com/David-Palagashvili-JS-401d36/react-phone-app#readme",
+  "dependencies": {
+    "expo": "^38.0.9",
+    "expo-battery": "^2.2.1",
+    "expo-calendar": "^8.3.0",
+    "expo-camera": "^8.3.1",
+    "expo-contacts": "^8.3.0",
+    "expo-permissions": "^9.1.0",
+    "expo-status-bar": "^1.0.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-native": "^0.63.2",
+    "react-native-web": "^0.13.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.0",
+    "babel-preset-expo": "^8.2.3"
+  },
+  "private": true
 }
